@@ -1,4 +1,3 @@
-{
-  "marcio": "123",
-  "lula": "13"
-}
+marcio:123
+lula:13
+teste:teste
